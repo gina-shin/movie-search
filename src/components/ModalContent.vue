@@ -73,10 +73,6 @@ export default {
       display: flex;
       justify-content: space-between;
       margin: 1em;
-
-      > div > p {
-        margin: 0 10em 1em 1em
-      }
     }
 
     .button-close {
